@@ -1,7 +1,7 @@
 {
   "name": "projects",
   "version": "1.0.0",
-  "description": "<div align=\"center\">   <h1>🚀 Codédex Projects</h1>   <strong>The best programming tutorials on the web.</strong><br>   <strong>Built by developers, for developers.</strong> </div> <br>",
+  "description": "<div align=\"center\">   <h1>🚀 Code Projects</h1>   <strong>The best programming tutorials on the web.</strong><br>   <strong>Built by developers, for developers.</strong> </div> <br>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
